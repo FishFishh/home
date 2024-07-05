@@ -2,31 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.fishfishh.kesug.com/"
+    "link": "https://blog.fish.kesug.com/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.fishfishh.kesug.com/"
+    "link": "https://pan.fish.kesug.com/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.fishfishh.kesug.com/"
+    "link": "https://music.fish.kesug.com/"
   },
   {
     "icon": "Book",
     "name": "网址集",
-    "link": "https://web.fishfishh.kesug.com/"
+    "link": "https://web.fish.kesug.com/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.fishfishh.kesug.com/"
+    "link": "https://hot.fish.kesug.com/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.fishfishh.kesug.com/"
+    "link": "https://status.fish.kesug.com/"
   }
 ]
